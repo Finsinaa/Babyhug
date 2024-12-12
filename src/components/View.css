@@ -1,0 +1,18 @@
+.views1-btn{
+    margin-left: 39px;
+    background-color: #47272b !important;
+    transition: all 0.3s ease-in-out;
+}
+.views2-btn{
+    margin-left: 25px;
+    background-color: #47272b !important;
+    transition: all 0.3s ease-in-out;
+}
+.views1-btn:hover{
+    box-shadow: 5px 5px  20px grey;
+    transform: scale(1.03)  ;
+}
+.views2-btn:hover{
+    box-shadow: 5px 5px  20px grey;
+    transform: scale(1.03)  ;
+}

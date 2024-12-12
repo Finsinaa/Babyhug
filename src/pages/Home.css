@@ -1,0 +1,256 @@
+.container {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .home-img {
+    max-width: 100%;
+    height: auto;
+  }
+  .shop-now{
+    width: 300px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 35px;
+    background-color: #47272b;
+    color: white;
+    border: 0px;
+    font: bold;
+  }
+  .shop-now2{
+    width: 300px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 35px;
+    background-color: #47272b;
+    color: white;
+    border: 0px;
+    font: bold;
+  }
+  .childrens-img{
+    margin-top: 60px;
+  }
+  .video-img{
+    margin-top: 60px;
+  }
+  .card-section2{
+    margin-top: 60px;
+  }
+  .img1-card2{
+    margin-top: 50px;
+    transition: 1s;
+  }
+  .img1-card2:hover {
+    opacity: 0.7;
+  }
+  .img2-card2{
+    margin-top: 50px;
+    transition: 1s;
+  }
+  .img2-card2:hover {
+    opacity: 0.7;
+  }
+  .img3-card2{
+    margin-top: 50px;
+    transition: 1s;
+  }
+  .img3-card2:hover {
+    opacity: 0.7;
+  }
+  .img4-card2{
+    margin-top: 50px;
+    transition: 1s;
+  }
+  .img4-card2:hover {
+    opacity: 0.7;
+  }
+  
+  .lastimg-h6{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 70px;
+    color: white;
+  }
+  .lastimg-h2{
+    position: absolute;
+    margin-top: -220px;
+    margin-left: 70px;
+    color: white;
+  }
+  .last-button{
+    position: absolute;
+    margin-left: -1425px;
+    margin-top: 510px;
+    border: 0px;
+    background-color: white;
+    color: grey;
+    width: 250px;
+    height: 40px;
+  }
+  
+  @media screen and (max-width:736px){
+    .brown-banner{
+      height: 100px;
+    }  
+    .brown-img1{
+        height: 80px;
+        margin-left: -40px;
+        margin-top: -50px;
+      }
+      .brown1-h4{
+        font-size: 6px;
+        margin-left: -30px;
+      }
+      .brown1-p{
+        display: none;
+      }
+      .brown-img2{
+        height: 80px;
+        margin-left: -20px;
+        margin-top: -50px;
+      }
+      .brown2-h4{
+        font-size: 6px;
+        margin-left: -0px;
+      }
+      .brown2-p{
+        display: none;
+      }
+      .brown-img3{
+        height: 80px;
+        margin-left: -0px;
+        margin-top: -50px;
+      }
+      .brown3-h4{
+        font-size: 6px;
+        margin-left: 25px;
+      }
+      .brown3-p{
+        display: none;
+      }
+      .brown-img4{
+        height: 80px;
+        margin-left: 15px;
+        margin-top: -50px;
+      }
+      .brown4-h4{
+        font-size: 6px;
+        margin-left: 40px;
+      }
+      .brown4-p{
+        display: none;
+      }
+      .childrens-img{
+        margin-top: 30px;
+      }
+      .video-img{
+        margin-top: 20px;
+      }
+      .card-section2{
+        margin-top: 20px !important;
+      }
+      .shop-now{
+        width: 70px;
+        height: 15px;
+        margin-top: 10px;
+        margin-left: 12px;
+        font-size: 6px;
+      }
+      .shop-now2{
+        width: 70px;
+        height: 20px;
+        margin-top: 10px;
+        margin-left: 12px;
+        font-size: 6px;
+      }
+      
+      .lastimg-h6{
+        position: absolute;
+        margin-top: -70px;
+        margin-left: 20px;
+        font-size: 6px;
+        color: white;
+      }
+      .lastimg-h2{
+        position: absolute;
+        margin-top: -60px;
+        margin-left: 20px;
+        font-size: 10px;
+        color: white;
+      }
+      .last-button{
+       display: none;
+      }
+  
+      
+  }
+  @media only screen and (min-width: 501px) and (max-width: 1024px) {
+    .brown-img1{
+      height: 80px;
+      margin-left: -40px;
+      margin-top: -20px;
+    }
+    .brown1-h4{
+      font-size: 6px;
+      margin-left: -30px;
+    }
+    .brown1-p{
+      display: none;
+    }
+    .brown-img2{
+      height: 80px;
+      margin-left: -20px;
+      margin-top: -20px;
+    }
+    .brown2-h4{
+      font-size: 6px;
+      margin-left: -0px;
+    }
+    .brown2-p{
+      display: none;
+    }
+    .brown-img3{
+      height: 80px;
+      margin-left: -0px;
+      margin-top: -20px;
+    }
+    .brown3-h4{
+      font-size: 6px;
+      margin-left: 25px;
+    }
+    .brown3-p{
+      display: none;
+    }
+    .brown-img4{
+      height: 80px;
+      margin-left: 15px;
+      margin-top: -20px;
+    }
+    .brown4-h4{
+      font-size: 6px;
+      margin-left: 40px;
+    }
+    .brown4-p{
+      display: none;
+    }
+  
+    .img1-card{
+      height: 50px !important;
+      width: 100px !important;
+    }
+    .img2-card{
+      height: 50px !important;
+      width: 100px !important;
+    }
+    .img3-card{
+      height: 50px !important;
+      width: 100px !important;
+    }
+    .img4-card{
+      height: 50px !important;
+      width: 100px !important;
+    }
+    /* Your styles for medium-sized screens go here */
+  }

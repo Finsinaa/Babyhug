@@ -1,0 +1,25 @@
+.shop-nav{
+    color: #47272b !important;
+    border: 0px !important;
+}
+.shop-nav:hover{
+    color: white !important;
+    background-color: #47272b !important;
+}
+.md-crd{
+    width: 300px;
+    margin-top: 40px;
+    margin-left:60px;
+    transition: all 0.3s ease-in-out;
+}
+.md-crd:hover{
+    box-shadow: 10px 5px  5px grey;
+    transform: scale(1.03)  ;
+  }
+.md-btn{
+    color: white !important;
+    background: #47272b !important;
+}
+.md-btn:hover{
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+}
